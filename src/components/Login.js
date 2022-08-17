@@ -11,8 +11,10 @@ function Login() {
         <Col sm={6} md={6} lg={6} xl={6}>
         <div align="left" className='imgDiv' >
             <img src={body} alt="img"  />
-
+            
+            <div className='p_bg'>
             <p className='img_p'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum, aliquam? Atque nam, mollitia voluptatibus error dignissimos consectetur nemo in dolore reprehenderit ut suscipit, modi iusto quidem ipsam omnis. Libero, consectetur.</p>
+            </div>
         </div>
         </Col>
 

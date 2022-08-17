@@ -1,7 +1,6 @@
 .imgDiv img{
     width: 100%;
-    /* filter: blur(8px);
-  -webkit-filter: blur(8px); */
+    
 }
 
 .head_buttons{
@@ -69,4 +68,12 @@
     margin-top: -151px;
     color: white;
     transform: scale(.8);
+    
+}
+
+.p_bg{
+    backdrop-filter: blur(8px); 
+  height: 25vh;
+	width: 100%;
+  
 }
